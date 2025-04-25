@@ -1,8 +1,3 @@
-<h3 align="center">I'm a detail-focused software tester and self-driven programmer on a mission to turn chaos into code</h3>
-
-
----
-
 <div align="center">
   <pre style="color: #00ff00;">
 ╔════════════════════════════════════════════════════════════╗
