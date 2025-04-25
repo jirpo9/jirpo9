@@ -25,7 +25,7 @@ I'm a detail-focused software tester and self-driven programmer on a mission to 
 
 > Building small scripts with big outcomes — automating workflows to save brainpower.  
 > Developing personal projects to automate tasks and analyze data.  
-> Empowering my development with `Codex`, `Claude`, and `Gemini`.  
+> Empowering my development with Codex, `Claude`, and Gemini.  
 > Iterating endlessly, learning constantly — adapting to what's next.
 
 ---
@@ -64,6 +64,6 @@ LinkedIn: *Coming soon*
 
 ### > Terminal Output
 
-> `Coding with vibes... Testing with precision... System stable.`
+> Coding with vibes... Testing with precision... System stable.
 
 
