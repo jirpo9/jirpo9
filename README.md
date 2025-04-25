@@ -1,36 +1,37 @@
 <div align="center">
   <pre style="color: #00ff00;">
-┌──────────────────────────────────────────────┐
-|     [ ACCESS GRANTED ] :: USER: jirpo9       │
-│──────────────────────────────────────────────│
-│ ROLE      :: software tester · code explorer │
-│ PROTOCOL  :: precision · flow · iteration    │
-│ NODE      :: ~/sandbox/testlab               │
-│ VERSION   :: v0.9-beta                       │
-│ STATUS    :: online                          │
-└──────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║             [ ACCESS GRANTED ] :: USER: jirpo9             ║
+╠════════════════════════════════════════════════════════════╣
+║  ROLE      ::   software tester · code explorer            ║
+║  PROTOCOL  ::   precision · flow · iteration               ║
+║  NODE      ::   ~/sandbox/testlab                          ║
+║  VERSION   ::   v0.9-beta                                  ║
+║  STATUS    ::   online                                     ║
+╚════════════════════════════════════════════════════════════╝
+
 
   </pre>
 </div>
 
 ---
 
-### > Accessing my codebase...
+## > Accessing my codebase...
 
-I'm a detail·focused software tester and self·driven programmer on a mission to turn chaos into code  
-
----
-
-### > What powers my console at 2 AM
-
-Building small scripts with big outcomes · automating workflows to save brainpower  
-Developing personal projects to automate tasks and analyze data  
-Empowering my development with Codex · **Claude** · Gemini  
-Iterating endlessly · learning constantly · adapting to what's next
+#### I'm a detail·focused software tester and self·driven programmer on a mission to turn chaos into code  
 
 ---
 
-### > Loadout
+## > What powers my console at 2 AM
+
+#### Building small scripts with big outcomes · automating workflows to save brainpower  
+#### Developing personal projects to automate tasks and analyze data  
+#### Empowering my development with Codex · **Claude** · Gemini  
+#### Iterating endlessly · learning constantly · adapting to what's next
+
+---
+
+## > Loadout
 
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=00ff00)
 ![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=00ff00)
@@ -46,7 +47,7 @@ Iterating endlessly · learning constantly · adapting to what's next
 
 ---
 
-### > Digital footprint
+## > Digital footprint
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jirpo9&show_icons=true&theme=gruvbox&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00" />
@@ -55,15 +56,15 @@ Iterating endlessly · learning constantly · adapting to what's next
 
 ---
 
-### > Connection Points
+## > Connection Points
 
-Email · podynka@gmail.com  
-LinkedIn · *Coming soon*
+#### Email · podynka@gmail.com  
+#### LinkedIn · *Coming soon*
 
 ---
 
-### > Terminal Output
+## > Terminal Output
 
-Coding with vibes · Testing with precision · System stable
+#### Coding with vibes · Testing with precision · System stable
 
 
