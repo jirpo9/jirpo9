@@ -1,3 +1,8 @@
+<h3 align="center">I'm a detail-focused software tester and self-driven programmer on a mission to turn chaos into code</h3>
+
+
+---
+
 <div align="center">
   <pre style="color: #00ff00;">
 ╔════════════════════════════════════════════════════════════╗
@@ -14,24 +19,17 @@
   </pre>
 </div>
 
----
 
-## > Accessing my codebase...
+### > What powers my console at 2 AM
 
-#### I'm a detail·focused software tester and self·driven programmer on a mission to turn chaos into code  
-
----
-
-## > What powers my console at 2 AM
-
-#### Building small scripts with big outcomes · automating workflows to save brainpower  
+#### Building small scripts with big outcomes - automating workflows to save brainpower  
 #### Developing personal projects to automate tasks and analyze data  
-#### Empowering my development with Codex · **Claude** · Gemini  
-#### Iterating endlessly · learning constantly · adapting to what's next
+#### Empowering my development with Codex - **Claude** - Gemini  
+#### Iterating endlessly - learning constantly - adapting to what's next
 
 ---
 
-## > Loadout
+### > Loadout
 
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=00ff00)
 ![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=00ff00)
@@ -47,7 +45,7 @@
 
 ---
 
-## > Digital footprint
+### > Digital footprint
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jirpo9&show_icons=true&theme=gruvbox&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00" />
@@ -56,15 +54,15 @@
 
 ---
 
-## > Connection Points
+### > Connection Points
 
-#### Email · podynka@gmail.com  
-#### LinkedIn · *Coming soon*
+#### Email      podynka@gmail.com  
+#### LinkedIn   *Coming soon*
 
 ---
 
-## > Terminal Output
+### > Terminal Output
 
-#### Coding with vibes · Testing with precision · System stable
+#### Coding with vibes - Testing with precision - System stable
 
 
