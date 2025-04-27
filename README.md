@@ -51,8 +51,8 @@
 
 ## > Connection Points
 
-     > podynka@gmail.com  
-     > Coming soon 
+     > jiripodanny@gmail.com  
+     > linkedin.com/in/jiripodany 
 
 ---
 
