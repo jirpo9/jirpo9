@@ -17,10 +17,10 @@
 
 ## > What powers my console at 2 AM
 
-#### Building small scripts with big outcomes - automating workflows to save brainpower  
-#### Developing personal projects to automate tasks and analyze data  
-#### Empowering my development with Codex - **Claude** - Gemini  
-#### Iterating endlessly - learning constantly - adapting to what's next
+      > Building small scripts with big outcomes - automating workflows to save brainpower  
+      > Developing personal projects to automate tasks and analyze data  
+      > Empowering my development with Codex - Claude - Gemini  
+      > Iterating endlessly - learning constantly - adapting to what's next
 
 ---
 
@@ -51,13 +51,15 @@
 
 ## > Connection Points
 
-#### Email      podynka@gmail.com  
-#### LinkedIn   *Coming soon*
+     > podynka@gmail.com  
+     > Coming soon 
 
 ---
 
 ## > Terminal Output
 
-#### Coding with vibes - Testing with precision - System stable
+        > Coding with vibes
+        > Testing with precision
+        > System stable
 
 
