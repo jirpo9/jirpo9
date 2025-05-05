@@ -52,7 +52,7 @@
 ## > Connection Points
 
      > jiripodanny@gmail.com  
-     > linkedin.com/in/jiripodany 
+   
 
 ---
 
