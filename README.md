@@ -28,7 +28,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=00ff00)
 ![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=00ff00)
-![LangChain](https://img.shields.io/badge/LangChain-0f0f0f?style=flat-square&logo=langchain&logoColor=00ff00)
+
 
 ![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=00ff00)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f0f0f?style=flat-square&logo=visualstudiocode&logoColor=00ff00)
