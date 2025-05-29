@@ -19,7 +19,7 @@
 
       > Building small scripts with big outcomes - automating workflows to save brainpower  
       > Developing personal projects to automate tasks and analyze data  
-      > Empowering my development with Codex - Claude - Gemini  
+      > Empowering my development with Claude (!) - Codex - Gemini  
       > Iterating endlessly - learning constantly - adapting to what's next
 
 ---
