@@ -33,6 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=00ff00)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f0f0f?style=flat-square&logo=visualstudiocode&logoColor=00ff00)
 ![Cursor](https://img.shields.io/badge/Cursor-0f0f0f?style=flat-square&logo=cursor&logoColor=00ff00)
+![Claude 4](https://img.shields.io/badge/Claude%204-0f0f0f?style=flat-square&logo=anthropic&logoColor=00ff00)
+
   
 ![Postman](https://img.shields.io/badge/Postman-0f0f0f?style=flat-square&logo=postman&logoColor=00ff00)
 ![SoapUI](https://img.shields.io/badge/SoapUI-0f0f0f?style=flat-square&logo=soapui&logoColor=00ff00) 
